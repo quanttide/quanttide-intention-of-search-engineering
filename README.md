@@ -4,7 +4,7 @@
 
 ## 概述
 
-本仓记录搜索工程的意图：缘起、目标与约束见 [`index.md`](index.md)，商业模式见 [`business-model.md`](business-model.md)。
+本仓记录搜索工程的意图，正文见 [`intro/index.md`](intro/index.md)。
 
 ## 许可
 
